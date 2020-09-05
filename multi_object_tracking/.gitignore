@@ -1,5 +1,6 @@
 */
 !batch/
+!association/
 !deep_learning/
 !network_flow/
 !notes/
@@ -10,3 +11,4 @@
 !unsupervised/
 !LSTM/
 !rnn/
+!joint_detection/
